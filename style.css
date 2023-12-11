@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEUiiyKRpK8wAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=);
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    font-size: 60px;
+  }
+  
+  iframe {
+    border-radius: 12px;
+    width: 332px; /* 50% width with a small gap between iframes */
+    height: 352px;
+    margin: 3px; /* Add margin for spacing between iframes */
+    box-sizing: border-box;
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    font-size: 20px;
+  }
+
+  marquee {
+    text-align: center;
+    font-size: 40px;
+    
+  
+  }
